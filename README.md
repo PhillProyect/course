@@ -1,2 +1,1 @@
-# course
-es prueba
+esto es una prueba nomas 
